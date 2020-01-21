@@ -3,14 +3,10 @@ Simple blob detection algorithm implemented through a 1-level laplacian scale sp
 
 ## Example Images
 
-![GitHub Logo](sunflowers.png)
-Format: ![Alt Text](url)
+![Sunflowers](sunflowers.png)
 
-![GitHub Logo](fishes.png)
-Format: ![Alt Text](url)
+![Fishes](fishes.png)
 
-![GitHub Logo](Sunflower Result Default (Threshold %3D 14).png)
-Format: ![Alt Text](url)
+![Sunflowers with Circled Blobs](Sunflower Result Default (Threshold %3D 14).png)
 
-![GitHub Logo](Fishes Result.png)
-Format: ![Alt Text](url)
+![Fishes with Circled Blobs](Fishes Result.png)
