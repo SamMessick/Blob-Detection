@@ -5,7 +5,7 @@ Simple blob detection algorithm implemented through a 1-level laplacian scale sp
 
 ![Sunflowers](sunflowers.jpg)
 
-![Sunflowers with Circled Blobs](sunflowers-result.png)
+![Sunflowers with Circled Blobs](sunflower-result.png)
 
 ![Fishes](fishes.jpg)
 
