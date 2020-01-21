@@ -5,8 +5,8 @@ Simple blob detection algorithm implemented through a 1-level laplacian scale sp
 
 ![Sunflowers](sunflowers.jpg)
 
-![Sunflowers with Circled Blobs](Sunflower Result Default (Threshold %3D 14).PNG)
+![Sunflowers with Circled Blobs](sunflowers-result.png)
 
 ![Fishes](fishes.jpg)
 
-![Fishes with Circled Blobs](Fishes Result.PNG)
+![Fishes with Circled Blobs](fishes-result.png)
